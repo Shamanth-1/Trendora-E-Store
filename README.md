@@ -39,7 +39,7 @@ Welcome to **Trendora**, a sleek and modern e-commerce website designed for a se
 ### 💻Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/trendora.git
+git clone https://github.com/Shamanth-1/Trendora-E-Store.git
 cd trendora
 ```
 ---
